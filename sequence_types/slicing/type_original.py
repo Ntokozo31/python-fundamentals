@@ -9,9 +9,5 @@ tuple_numbers = (10, 20, 30, 40, 50, 60)
 
 list_numbers = [10, 20, 30, 40, 50, 60]
 
-print(f"First 3 of Tuple: {tuple_numbers[:3]}")
-print(f"First 3 of List: {list_numbers[:3]}")
-
-# Type
-print(type(tuple_numbers))
-print(type(list_numbers))
+print(f"First 3 of Tuple: {type(tuple_numbers[:3])}")
+print(f"First 3 of List: {type(list_numbers[:3])}")
