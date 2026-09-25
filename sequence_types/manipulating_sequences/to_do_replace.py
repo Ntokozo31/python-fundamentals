@@ -7,7 +7,7 @@ Print the final list and its length.
 
 daily_tasks = ["Wake up", "Exercise", "Study", "Cook", "Sleep"]
 
-daily_tasks[1:3] = ["Exercise", "Study"]
+daily_tasks[1:3] = ["Read", "Code", "Review"]
 
 print(f"Final Daily tasks are: {daily_tasks}")
 print(f"Length: {len(daily_tasks)}")
