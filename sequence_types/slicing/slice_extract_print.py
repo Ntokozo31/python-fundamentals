@@ -11,5 +11,4 @@ s = "Isaac Newton"
 
 print(s[:5])
 print(s[6:])
-print(s[3:4], s[6:9])
-
+print(s[3:4] + s[5:9])
