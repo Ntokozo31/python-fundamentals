@@ -10,5 +10,5 @@ print(s)
 
 # Fixed code (TyepeError)
 s = "World"
-s = "a"
+s = "warld"
 print(s)
